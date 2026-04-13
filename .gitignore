@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# JetBrains IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

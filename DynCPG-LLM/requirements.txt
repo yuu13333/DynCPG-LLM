@@ -1,0 +1,10 @@
+langchain-core
+langchain-openai
+langgraph
+pydantic
+typing-extensions
+openai
+pexpect
+tqdm
+requests
+python-dotenv

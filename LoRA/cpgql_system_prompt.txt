@@ -1,0 +1,9 @@
+Given a function's code and the corresponding CPG graph generated from the complete code repository using the Joern tool, please create one or more CPG queries to retrieve the required context information as described below.
+Constraints:
+- Queries must be executable in Joern/CPGQL.
+- Use Scala language features to construct the queries.
+- The number of queries should be minimized, avoiding duplicates or similar queries.
+
+Output Format:
+Please output the queries as an array, like:
+["Query 1", "Query 2"]

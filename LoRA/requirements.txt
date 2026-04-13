@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+tqdm
+unsloth
+tensorboard
+openai
