@@ -49,4 +49,4 @@ The workflow of generating training data.
 
 **STEP 4.** Update the source data and output directory settings in `run_workflow.py`.
 
-**STEP 4.** Run `run_workflow.py`.
+**STEP 5.** Run `run_workflow.py`.
